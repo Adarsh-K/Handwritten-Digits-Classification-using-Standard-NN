@@ -1,4 +1,4 @@
-# I've trained a Standard NN which categorises Handwritten Digits. The code is in Matlab.
+# This is a Standard NN which categorises Handwritten Digits. The code is in Matlab.
 Note: All the files are well documented and commented wherever I felt necessary
 
 Run the file named HandwrittenDigitsClassification.m which does the following:
